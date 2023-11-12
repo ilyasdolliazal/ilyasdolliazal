@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilyasdolliazal
-- 👀 I’m interested in Front end developement 
+- 👀 I’m Front end developer 
 - 🌱 I’m currently learning Javascript, React
 - 📫 How to reach me : inselfcreator@gmail.com
 
